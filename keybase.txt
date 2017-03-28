@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/metagirl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://MetaGirl.GitHub.io
+  * I am metagirl (https://keybase.io/metagirl) on keybase.
+  * I have a public key ASBtxhC7gRVm2b8E0qJ73oBXfGC4l7sr1nmchZ589O4Tzwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01206dc610bb811566d9bf04d2a27bde80577c60b897bb2bd6799c859e7cf4ee13cf0a",
+            "host": "keybase.io",
+            "kid": "01206dc610bb811566d9bf04d2a27bde80577c60b897bb2bd6799c859e7cf4ee13cf0a",
+            "uid": "d7735772775d7f7cd132798680a0b419",
+            "username": "metagirl"
+        },
+        "service": {
+            "hostname": "MetaGirl.GitHub.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490736422,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490736367,
+        "hash": "1292f6a8e930004f0aaf6342400abafb8fa6669ef970cd2789deb88e9ad17e74b9096317d3c46d490a1c5c4a4bf928167800099faca7b88d6cf3627bdb535fb9",
+        "seqno": 983242
+    },
+    "prev": "d77e6a7f82fd6e4ba9964e8a393a76349a11d613f959f82cc67b938898f2ca91",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbcYQu4EVZtm/BNKie96AV3xguJe7K9Z5nIWefPTuE88Kp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmRjNjEwYmI4MTE1NjZkOWJmMDRkMmEyN2JkZTgwNTc3YzYwYjg5N2JiMmJkNjc5OWM4NTllN2NmNGVlMTNjZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmRjNjEwYmI4MTE1NjZkOWJmMDRkMmEyN2JkZTgwNTc3YzYwYjg5N2JiMmJkNjc5OWM4NTllN2NmNGVlMTNjZjBhIiwidWlkIjoiZDc3MzU3NzI3NzVkN2Y3Y2QxMzI3OTg2ODBhMGI0MTkiLCJ1c2VybmFtZSI6Im1ldGFnaXJsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJNZXRhR2lybC5HaXRIdWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MDczNjQyMiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkwNzM2MzY3LCJoYXNoIjoiMTI5MmY2YThlOTMwMDA0ZjBhYWY2MzQyNDAwYWJhZmI4ZmE2NjY5ZWY5NzBjZDI3ODlkZWI4OGU5YWQxN2U3NGI5MDk2MzE3ZDNjNDZkNDkwYTFjNWM0YTRiZjkyODE2NzgwMDA5OWZhY2E3Yjg4ZDZjZjM2MjdiZGI1MzVmYjkiLCJzZXFubyI6OTgzMjQyfSwicHJldiI6ImQ3N2U2YTdmODJmZDZlNGJhOTk2NGU4YTM5M2E3NjM0OWExMWQ2MTNmOTU5ZjgyY2M2N2I5Mzg4OThmMmNhOTEiLCJzZXFubyI6MzMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RANFr+Y34+WUH8wKcKXwT9vU+YOWCwErJf2PcJPiNQLE8/8eS1tfccKwKf+07potBDNdIpGTzeyKkCS7too0LkBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKTN5soHn0q+21ypvsl/GIKJFFZLS2hWNfha2dIMZ8h3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/metagirl
+
+==================================================================
